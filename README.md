@@ -15,6 +15,8 @@ DreamVoyage Agency est une application web moderne de réservation de voyages pe
 💾 Stockage des données avec localStorage
 📱 Interface responsive et moderne
 🔗 Navigation fluide par sections
+
+
 🛠️ Outils et technologies
 HTML5
 CSS3
@@ -23,6 +25,8 @@ LocalStorage (gestion des données)
 Unsplash (images des destinations)
 CodePen / VS Code (développement)
 Git & GitHub (versioning)
+
+
 🚀 Optimisation SEO
 Utilisation de balises meta (description, keywords)
 Structure HTML sémantique (header, section, footer)
